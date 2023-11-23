@@ -4,7 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaisann473/kaisann473/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaisann473&layout=compact)](https://github.com/kaisann473/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaisann473&layout=compact?username=anuraghazra&count_private=true)](https://github.com/kaisann473/github-readme-stats)
 
 
 
